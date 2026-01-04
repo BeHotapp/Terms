@@ -2,7 +2,7 @@ Privacy Policy & Terms of Service
 Last Updated: 04/01, 2026
 
 1. LEGAL DISCLAIMER & AGREEMENT
-PLEASE READ THIS CAREFULLY. By installing or using this Application (the "App"), you enter into a legally binding agreement with [Your Name/Company Name] ("Developer," "we," or "us"). If you do not agree to these terms, you must delete the App immediately. This App allows for the tracking of highly sensitive, intimate information. You acknowledge that you use this App at your own risk.
+PLEASE READ THIS CAREFULLY. By installing or using this Application (the "App"), you enter into a legally binding agreement with the ("Developer," "we," or "us"). If you do not agree to these terms, you must delete the App immediately. This App allows for the tracking of highly sensitive, intimate information. You acknowledge that you use this App at your own risk.
 
 PART I: PRIVACY POLICY (GDPR & US COMPLIANT)
 2. Data Governance: "Local-First" Model
@@ -36,7 +36,7 @@ Right to Access: You have full access to your data through the App interface.
 US Residents (CCPA/CPRA): You have the right to limit the use of your Sensitive Personal Information. Since all SPI is stored locally, you exercise this right by not inputting the data or deleting the App.
 
 PART II: TERMS OF SERVICE & LIABILITY SHIELD
-6. Limitation of Liability (The "Lawsuit Shield")
+6. Limitation of Liability 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOPER OR PUBLISHER BE LIABLE FOR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO:
 
 Data Breaches: Unauthorized access to your device or local storage.
@@ -66,7 +66,7 @@ Security: You acknowledge that this App does not use end-to-end encryption. Data
 Third-Party Failure: We are not liable for any outages or data handling errors by Firebase or Google Maps.
 
 9. Governing Law & Dispute Resolution
-This agreement is governed by the laws of [Insert Your State/Country]. You agree that any legal action shall be brought exclusively in the courts of [Insert Your City/County], and you waive any right to a jury trial or class action participation.
+This agreement is governed by the laws of Spain. You agree that any legal action shall be brought exclusively in the courts of Barcelona, and you waive any right to a jury trial or class action participation.
 
 10. CONSENT & ACKNOWLEDGMENT
 By clicking "Accept" or using the App, you provide Explicit Consent for the processing of sensitive data and agree to the total waiver of liability for the Developer.
