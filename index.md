@@ -1,72 +1,89 @@
-Privacy Policy & Terms of Service
-Last Updated: 04/01, 2026
+Privacy Policy
 
-1. LEGAL DISCLAIMER & AGREEMENT
-PLEASE READ THIS CAREFULLY. By installing or using this Application (the "App"), you enter into a legally binding agreement with the ("Developer," "we," or "us"). If you do not agree to these terms, you must delete the App immediately. This App allows for the tracking of highly sensitive, intimate information. You acknowledge that you use this App at your own risk.
+Last updated: April 1, 2026
 
-PART I: PRIVACY POLICY (GDPR & US COMPLIANT)
-2. Data Governance: "Local-First" Model
-This App follows a "Privacy-by-Design" principle.
+1. Controller
 
-Local Data (User-Controlled): All primary data regarding encounters, notes, poses, and exact GPS locations are stored locally on your device using AsyncStorage. We do not have access to this data.
+Controller: BeHotApp
+Contact: onemillionproject19@gmail.com
 
-Cloud Data (Optional): Only if you opt-in to "Friend Features" do we sync your username and UUID to Firebase (Google). No intimate data (encounters, notes, ratings) is ever uploaded.
 
-3. Special Categories of Data (Sensitive Information)
-Under GDPR Article 9 and US CPRA, the information you may record (intimate encounters) is classified as Sensitive Personal Information.
+2. Scope
 
-Lawful Basis: We process this data solely based on your Explicit Consent. By inputting this data, you are granting us permission to facilitate its storage on your device.
+This Privacy Policy explains how personal data is processed when you use the mobile application (the “App”).
 
-Purpose: The data is processed only to provide the tracking and mapping functionality you requested.
+3. Categories of data
 
-No Sale/Sharing: We do not sell your data. We do not use it for advertising or profiling.
+Depending on features enabled, the App may process:
 
-4. Location Data & Third Parties
-GPS: We use expo-location and react-native-maps. GPS coordinates are stored locally.
+Sensitive personal data (Article 9 GDPR): user-entered information relating to sexual life or intimate encounters
 
-Third-Party Services: We use Google Firebase for optional authentication and Google Maps SDK for map rendering. These services process data according to their own privacy policies. We are not responsible for their data handling.
+Location data: GPS coordinates
 
-5. Your Rights (Global)
-Regardless of your location, you have the following rights:
+Identifiers: username, UUID (only if Friend Features enabled)
 
-Right to Erasure: Deleting the App or using the "Clear Data" setting permanently deletes all local data. Cloud data can be deleted via the "Delete Account" button.
+Technical data: app version, OS version (limited, non-profiling)
 
-Right to Access: You have full access to your data through the App interface.
+4. Local-first processing
 
-US Residents (CCPA/CPRA): You have the right to limit the use of your Sensitive Personal Information. Since all SPI is stored locally, you exercise this right by not inputting the data or deleting the App.
+By default, all sensitive content and precise location data are stored locally on the user’s device. The Developer does not access this data as part of ordinary operation.
 
-PART II: TERMS OF SERVICE & LIABILITY SHIELD
-6. Limitation of Liability 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOPER OR PUBLISHER BE LIABLE FOR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO:
+5. Optional cloud processing
 
-Data Breaches: Unauthorized access to your device or local storage.
+If the user explicitly enables Friend Features:
 
-Data Loss: Loss of data due to app bugs, OS updates, or device failure.
+Minimal identifiers (username, UUID) are transmitted to Google Firebase
 
-Privacy Leaks: Any disclosure of your intimate information resulting from your choice to share data with "Friends" or failing to secure your device.
+No intimate content is uploaded unless explicitly selected by the user
 
-Psychological or Physical Harm: Any distress or injury arising from the use of the App or the activities recorded therein.
+Firebase acts as a data processor under a Data Processing Agreement.
 
-OUR TOTAL LIABILITY FOR ANY CLAIM ARISING OUT OF THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT PAID BY YOU TO US (IF ANY), WHICH IS $0.00.
+6. Purposes of processing
 
-7. User Indemnification
-You agree to defend, indemnify, and hold harmless the Developer and Publisher from any and all lawsuits, claims, costs, or legal fees arising from:
+Provide tracking and mapping functionality
 
-Your use or misuse of the App.
+Enable optional social features (if enabled)
 
-Your violation of any third-party rights (e.g., recording data about a partner without their consent).
+Maintain app security and integrity
 
-Any content you input or share through the Friend system.
+No advertising, profiling, or resale of sensitive data occurs.
 
-8. No Warranty & Technical Risks
-"As-Is": The App is provided "As-Is" without warranties of any kind.
+7. Legal bases
 
-Security: You acknowledge that this App does not use end-to-end encryption. Data security relies entirely on your device's native security (Passcode/Biometrics).
+Explicit consent (GDPR Art. 9(2)(a)) for sensitive data processing where applicable
 
-Third-Party Failure: We are not liable for any outages or data handling errors by Firebase or Google Maps.
+Performance of a contract for basic app functionality
 
-9. Governing Law & Dispute Resolution
-This agreement is governed by the laws of Spain. You agree that any legal action shall be brought exclusively in the courts of Barcelona, and you waive any right to a jury trial or class action participation.
+Legitimate interests for minimal security logging (where applicable)
 
-10. CONSENT & ACKNOWLEDGMENT
-By clicking "Accept" or using the App, you provide Explicit Consent for the processing of sensitive data and agree to the total waiver of liability for the Developer.
+8. Consent withdrawal
+
+Users may withdraw consent at any time via in-app settings. Withdrawal does not affect prior lawful processing.
+
+9. Data retention
+
+Local data: until deleted by the user or app uninstalled
+
+Cloud data: until account deletion or deletion request
+
+10. User rights
+
+Users have rights to access, rectification, erasure, restriction, portability, and complaint to a supervisory authority.
+
+EU users may contact their local Data Protection Authority. Spanish authority: AEPD.
+
+11. International transfers
+
+Where data is processed outside the EEA, appropriate safeguards such as Standard Contractual Clauses are used.
+
+12. Security
+
+Reasonable technical and organizational measures are implemented, including encrypted transport, processor security standards, and reliance on device-level security.
+
+13. Children
+
+The App is not intended for persons under 18. We do not knowingly process data of minors.
+
+14. Changes
+
+Material changes will be communicated via the App.
